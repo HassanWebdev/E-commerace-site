@@ -4,8 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import { useDispatch } from 'react-redux';
-import RangeSlider from './Slider';
-import { filterItems, selectProduct } from '../Store/DataSlice';
+import { filterItems, } from '../Store/DataSlice';
 
 
 function Cardio_Item() {

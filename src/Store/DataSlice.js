@@ -58,7 +58,7 @@ export const dataSlicer = createSlice({
       });
     },
     updateProductQuantity: (state, action) => {
-      console.log(action.payload)
+      console.log('Stock Update error')
     }
   },
 });
