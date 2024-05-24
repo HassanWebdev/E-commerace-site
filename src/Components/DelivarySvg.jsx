@@ -1,20 +1,23 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
+import cash from '../assets/icons/cash.png'
+import online from '../assets/icons/online.png'
+import shipping from '../assets/icons/shipping.png'
 
 function DelivarySvg() {
     const svg = [
         {
-            "img":"https://fitnessdepot.pk/wp-content/uploads/2020/05/cash.png",
+            "img":cash,
             "text":"Cash On Delivary",
             "Description":"Free Orders upto Rs.30,000"
         },
         {
-            "img":"https://fitnessdepot.pk/wp-content/uploads/2020/05/online.png",
+            "img":online,
             "text":"Online Support",
             "Description":"Dedicated Online Support"
         },
         {
-            "img":"https://fitnessdepot.pk/wp-content/uploads/2020/05/shipping.png",
+            "img":shipping,
             "text":"Free Delivery in Karachi",
             "Description":"For Orders Over Rs. 20,000"
         }
