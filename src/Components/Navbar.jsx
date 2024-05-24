@@ -7,6 +7,7 @@ import { SearchOutlined, ShoppingCartOutlined } from '@ant-design/icons';
 import { useDispatch, useSelector } from 'react-redux';
 import { FilterData } from '../Store/DataSlice';
 
+
 function Navbar() {
   const dispatch = useDispatch();
   const filterData = useSelector((state) => state.Products.filterdata);
@@ -30,10 +31,10 @@ function Navbar() {
     <div className="main w-full">
       <div className="flex items-center justify-evenly text-white bg-black py-2">
         <div className="logo ">
-          <img className="w-48" src={data[0]?.img} alt="" />
+         <Link to='/'> <img className="w-48" src={data[0]?.img} alt="" /></Link>
         </div>
         <div className="links gap-5 flex text-md font-semiboldbold ">
-          <a href="#" className="uppercase">Home</a>
+          <Link to='/' className="uppercase">Home</Link>
           <a href="#" className="uppercase">Shope</a>
           <a href="#" className="uppercase">About US </a>
           <a href="#" className="uppercase">blog</a>
@@ -72,7 +73,6 @@ function Navbar() {
               }
             </div>
           </Drawer>
-          <Button type="primary">Log in</Button>
           <Link to='/Cart'><Button type="primary"><ShoppingCartOutlined /></Button></Link>
         </div>
       </div>
