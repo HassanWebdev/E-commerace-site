@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2020/10/9ab980_709fba1cde554442bbe4353aa7f356f1_mv2_d_3002_3002_s_4_2-405x270.jpg",
+      "title": "Abdominal",
+      "quantity": 8,
+      "price": 600
+    },
+    {
+      "id": 1,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2020/10/9ab980_d7a740d5ed3244348f506d71a39131ff_mv2_d_3002_3002_s_4_2-405x270.jpg",
+      "title": "Assisted Chin/Dip",
+      "quantity": 81,
+      "price": 800
+    },
+    {
+      "id": 2,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2020/10/9ab980_d2ca30815f614fb8aacfdbcec10726a9_mv2_d_3002_3002_s_4_2-405x270.jpg",
+      "title": "Back Extension",
+      "quantity": 10,
+      "price": 80000
+    },
+    {
+      "id": 3,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2020/09/12-405x270.jpg",
+      "title": "BTM-001 Chest Press",
+      "quantity": 110,
+      "price": 50000
+    },
+    {
+      "id": 4,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2023/12/pedal-bike-copy-1-405x270.webp",
+      "title": "Mini Bike Pedal Exerciser, With Out Meter for Legs Arms Physical Therapy Workout",
+      "quantity": 8,
+      "price": 6400
+    },
+    {
+      "id": 5,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2022/06/510c-royal-fitness-treadmill_11zon-405x270.jpg",
+      "title": "ROYAL FITNESS CANADA TREADMILL T510-C",
+      "quantity": 10,
+      "price": 160000
+    },
+    {
+      "id": 6,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2022/10/7302-Bench-300x270.jpeg",
+      "title": "Slimline Multi-function Strength Trainer Bench Model 7302",
+      "quantity": 7,
+      "price": 61400
+    },
+    {
+      "id": 7,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2022/05/TA4000-SLIMLINE-TREADMILL-FD1-405x270.jpg",
+      "title": "Slimline Treadmill TA-4000",
+      "quantity": 5,
+      "price": 64100
+    },
+    {
+      "id": 8,
+      "img": "https://fitnessdepot.pk/wp-content/uploads/2022/10/wb70801-copy-1-405x270.jpg",
+      "title": "WB-7080 Multi Home Gym Machine All In One for Multiple Workout",
+      "quantity": 5,
+      "price": 35000
+    }
+  ]
